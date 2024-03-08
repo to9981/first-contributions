@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Ogo Nelson](https://github.com/OgoNelson) [Twitter](https://www.twitter.com/ogo_nelson)
 JiyinShao
@@ -8,6 +8,7 @@ JiyinShao
 - [Mohit Kumhar](https://github.com/mohitkumhar) [LinkedIn](www.linkedin.com/in/mohitkumhar)
 - [Edgar Budaghyan](https://github.com/Budaghyan)
 - [chux] (https://github.com/codechux)
+-[dc] (https://github.com/to9981)
 - [Maxime de Montbron](https://github.com/mijnog/) Just learning how to code
 - [Samartha D N](https://github.com/SamtheGOC) Come chat w/ me on Discord at [.rizzmaster_]
 i-[Hilal Semercioğlu](https://github.com/elinoza)
