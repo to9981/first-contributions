@@ -32,7 +32,7 @@ func main() {
 	fmt.Println("*p (value at address p):", *p) // Dereferences 'p' to get the value at the address stored in 'p'
 
 	*p = 20
-	numbers := []int{1, 2, 3, 4, 5, 6}
+	numbers := []int{1, 2, 3, 4, 5, 6, 7}
 	for _, v := range numbers {
 		fmt.Println(v)
 		// Dereference 'p' and update the value of 'a' indirectly
